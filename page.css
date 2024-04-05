@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    border-style: solid;
+   border-spacing: 5px;
+ }
+  
+  .team-member {
+    display: inline-block;
+    margin: 0 20px;
+    vertical-align: top;
+  }
+  
+  .team-image {
+    width: 200px;
+    height: 250px;
+    object-fit: cover;
+  }
+  
+  .team-name {
+    margin: 10px 0;
+  }
+  
+  .team-title {
+    color: #6c757d;
+    font-size: 1rem;
+  }
+
+
+
+
+.mark{
+
+    size: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  h1{
+    background: blueviolet;
+    
+    display:inline-block;
+    border-radius: 6px;
+    margin-left: 10px;
+    
+}
+
+p{
+    text-align: center;
+    margin-left: 520px;
+    margin-right: 520px;
+
+   /* border-bottom: 5px dotted black;
+*/
+
+}
+#leader{
+    background-color: blueviolet;
+   
+    
+    display:inline-block;
+    border-radius: 6px;
+    margin-left: 10px;
+
+}
